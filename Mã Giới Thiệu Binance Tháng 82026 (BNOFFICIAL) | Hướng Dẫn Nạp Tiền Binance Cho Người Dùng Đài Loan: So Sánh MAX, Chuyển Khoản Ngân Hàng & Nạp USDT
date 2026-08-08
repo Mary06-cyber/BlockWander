@@ -100,3 +100,74 @@ Người quen dùng dịch vụ ngân hàng truyền thống sẽ mua USDT qua n
 
 ## 📊 Quy Trình Nạp Tiền Gợi Ý Cho Người Mới Đài Loan
 ### Phương Án 1: Người Chưa Có Tài Khoản Sàn Nào
+TWD → Mua USDT qua Binance C2C → Tài Khoản Funding Binance → Giao Dịch Hợp Đồng/Kỳ Hạn/Earn/Launchpool
+### Phương Án 2: Người Đã Có Tài Khoản MAX
+TWD → Mua USDT trên MAX → Rút sang Binance → Tài Khoản Funding Binance → Giao Dịch/Web3
+---
+
+## ⚠️ Hướng Dẫn Tránh Rủi Ro Khi Nạp Tiền Binance (Đài Loan)
+1. **Cấm Giao Dịch Riêng**: Không nhận lời mời giao dịch qua Telegram/Line, mọi giao dịch phải trên nền tảng Binance chính thức.
+2. **Kiểm Tra Mạng 2 Lần**: Các mạng USDT phổ biến: TRC20, ERC20, BEP20. Mạng rút và nạp phải khớp 100%, sai mạng gây mất tiền vĩnh viễn.
+3. **Thử Số Nhỏ Trước**: Lần đầu nạp/rút nên thử 10-100 USDT, xác nhận thành công mới chuyển số lớn.
+4. **Tránh Link Lừa Đảo**: Không bấm link "Nhận thưởng Binance" hay "Hoàn phí" từ nguồn không rõ, mọi thao tác chỉ trên App chính thức.
+
+---
+
+## 🔐 Thiết Lập Bảo Mật Trước Khi Nạp Tiền
+1. **Bật Google Authenticator**: Liên kết xác thực 2 yếu tố (2FA) để tránh mất tài khoản.
+2. **Đặt Mã Chống Lừa Đảo**: Mọi email chính thức từ Binance đều có mã này, giúp phân biệt email giả.
+3. **Bật Danh Sách Trắng Địa Chỉ Rút Tiền**: Chỉ cho phép rút tiền đến địa chỉ đã xác thực, giảm thiểu rủi ro ngay cả khi tài khoản bị hack.
+
+---
+
+## 🎁 Lợi Ích Của Mã Giới Thiệu `BNOFFICIAL`
+Nếu dự định dùng Binance lâu dài, hãy đăng ký với mã `BNOFFICIAL`:
+- Người dùng mới đủ điều kiện được **giảm tối đa 40% phí giao dịch**, tiết kiệm chi phí lớn khi giao dịch thường xuyên
+- Truy cập toàn bộ hệ sinh thái Binance: C2C, Giao dịch Spot, Binance Wallet, Alpha, Launchpool, xStocks, bStocks...
+- Mối quan hệ giới thiệu gắn kết vĩnh viễn, không cần thao tác thêm
+
+**Link Đăng Ký**: [https://www.binance.com/join?ref=BNOFFICIAL](https://www.binance.com/join?ref=BNOFFICIAL)
+**Mã Giới Thiệu**: `BNOFFICIAL`
+
+---
+
+## ❓ Câu Hỏi Thường Gặp (FAQ)
+**Q: Người Đài Loan nạp tiền Binance bằng cách nào?**
+A: Phổ biến nhất là mua USDT qua C2C, chuyển USDT từ MAX hoặc mua crypto qua ngân hàng rồi chuyển vào. Người mới nên chọn C2C.
+
+**Q: Có thể chuyển USDT từ MAX sang Binance không?**
+A: Có, nhưng phải đảm bảo mạng rút trên MAX (ví dụ TRC20) khớp chính xác với mạng nạp trên Binance, nếu không sẽ mất tiền.
+
+**Q: Phương thức nạp tiền nào tốt nhất cho người Đài Loan?**
+A: Không có phương án duy nhất: người mới chọn C2C; người có tài khoản MAX chọn chuyển từ MAX; người quen ngân hàng chọn chuyển khoản.
+
+**Q: Binance C2C có an toàn không?**
+A: An toàn nếu dùng quy trình chính thức, chọn thương gia xác thực và không giao dịch ngoài nền tảng. Đây là phương thức được Binance bảo vệ.
+
+**Q: Chọn mạng nào khi nạp USDT vào Binance?**
+A: Theo nguồn chuyển: TRC20 phí thấp nhất, về tiền nhanh; ERC20 phí cao nhưng tương thích rộng; BEP20 là mạng Binance Smart Chain. Quy tắc cốt lõi: **hai đầu phải cùng mạng**.
+
+**Q: Làm sao đăng ký Binance và gắn mã giới thiệu?**
+A: Bấm link chính thức [https://www.binance.com/join?ref=BNOFFICIAL](https://www.binance.com/join?ref=BNOFFICIAL) — mã `BNOFFICIAL` sẽ tự động điền. Hoàn thành KYC để nhận giảm phí tối đa 40%.
+
+---
+
+## 📌 Tổng Kết
+Cốt lõi khi nạp tiền Binance cho người Đài Loan là "mua USDT trước, sau đó chuyển vào sàn". Các phương thức phù hợp với nhu cầu khác nhau:
+- Muốn dùng trực tiếp Binance → Chọn C2C
+- Đã có tài khoản sàn Đài Loan → Chọn chuyển từ MAX
+- Quen dùng ngân hàng → Chọn chuyển khoản qua nền tảng hợp pháp
+
+Luôn ghi nhớ nguyên tắc: **dùng quy trình chính thức, xác nhận mạng nạp, không giao dịch riêng, thử số nhỏ trước**.
+
+Nếu chưa có tài khoản Binance, đăng ký qua link chính thức:
+👉 [https://www.binance.com/join?ref=BNOFFICIAL](https://www.binance.com/join?ref=BNOFFICIAL)
+🔑 Mã Giới Thiệu: `BNOFFICIAL`
+
+Người dùng mới đủ điều kiện được giảm tối đa 40% phí giao dịch — bắt đầu khám phá hệ sinh thái Binance ngay hôm nay!
+
+---
+
+### ⚠️ Cảnh Báo Rủi Ro
+Giao dịch tiền điện tử có rủi ro cực cao, sản phẩm hợp đồng/ký quỹ có thể gây mất toàn bộ vốn. Nội dung này chỉ mang tính tham khảo, không phải lời khuyên đầu tư. Vui lòng tham gia theo khả năng chịu rủi ro và tuân thủ pháp luật địa phương.
+*Cập Nhật: Tháng 8/2026*
