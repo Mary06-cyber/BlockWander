@@ -1,0 +1,246 @@
+# 2026年8月 Nado 邀請碼（qp0fptC）｜Nado 支援哪些錢包？Wallet 連接、簽名與切換帳戶完整教程
+
+Nado 是建立在 Ink L2 上的鏈上交易平台，與傳統中心化交易所不同，使用者主要透過 Web3 Wallet 連接帳戶、管理資產並完成交易簽名。
+
+第一次使用 Nado 時，最容易遇到的問題通常不是交易操作，而是：
+
+- 不知道 Nado 支援哪些錢包。
+- 連接 Wallet 後不知道如何切換帳戶。
+- 看到 Signature 簽名請求，不確定是否安全。
+- 不知道應該使用交易所 Web3 Wallet 還是獨立錢包。
+- 充值時選錯網路或沒有準備 Gas。
+
+2026年8月使用 Nado，可以透過邀請碼建立推薦關係：
+
+**Nado 邀請碼：qp0fptC**
+
+**官方邀請連結：**
+
+https://app.nado.xyz/?referralCode=qp0fptC
+
+建議透過以上入口進入 Nado，再完成 Wallet 連接、Referrals 綁定與首次交易設定。
+
+## 📌 Nado 支援哪些錢包？
+
+Nado 主要透過 Web3 Wallet 連接使用。支援範圍可能隨平台更新調整，實際可連接錢包應以 Nado 連接頁面顯示為準。
+
+目前常見可使用的錢包包括：
+
+| 錢包 | 適合使用者 |
+|------|------------|
+| MetaMask | 最常見 EVM 錢包，適合熟悉 Web3 操作的用戶 |
+| Rabby Wallet | 偏向 DeFi 使用者，提供交易前風險檢查 |
+| WalletConnect | 連接多種行動錢包與硬體錢包 |
+| OKX Wallet | 適合同時使用 OKX 生態與多鏈資產管理 |
+| Trust Wallet | 適合行動端多鏈錢包使用者 |
+| Binance Wallet | 適合 Binance 生態使用者探索 Web3 應用 |
+
+如果已經熟悉 MetaMask 或 Rabby，可以直接連接使用；如果平時主要使用中心化交易所，也可以考慮使用交易所提供的 Web3 Wallet 入口。
+
+## 👛 Binance Wallet 可以連接 Nado 嗎？
+
+Binance 生態內提供 Binance Web3 Wallet，用戶可以在 Binance App 內管理鏈上資產、連接 Web3 應用並探索 DeFi 生態。
+
+如果希望使用 Binance Wallet 進入 Web3 應用，可以先建立 Binance Wallet，再透過支援的連接方式嘗試連接 Nado。
+
+Binance 新用戶可以透過官方入口註冊：
+
+**Binance 邀請碼：BNOFFICIAL**
+
+**官方註冊連結：**
+
+https://www.binance.com/join?ref=BNOFFICIAL
+
+完成 Binance 註冊後，可以使用 Binance App 內的 Web3 Wallet 功能，管理 USDT、ETH 等鏈上資產，再依照 Nado 支援的網路與資產要求進行操作。
+
+⚠️ Binance Wallet 與 Binance 交易帳戶是不同功能。交易所帳戶中的資產，不代表自動存在 Web3 Wallet 內，需要依照轉帳流程操作。
+
+## 🌐 OKX Wallet、Bybit Wallet、Bitget Wallet 是否可以使用？
+
+### OKX Wallet
+OKX Wallet 是多鏈 Web3 Wallet，支援 EVM、生態應用、NFT 及 DeFi 操作。
+
+熟悉 OKX 生態的使用者，可以使用 OKX Wallet 管理鏈上資產，再連接支援的 Web3 應用。
+
+OKX 新用戶註冊：
+
+**OKX 邀請碼：OKOFFICIALLY**
+
+**官方連結：**
+
+https://okx.com/join/OKOFFICIALLY
+
+### Bybit Wallet
+Bybit Wallet 主要用於 Web3 資產管理、多鏈操作與鏈上應用連接。
+
+如果使用 Bybit 生態，可以先在 Bybit App 內建立 Web3 Wallet，再根據 Nado 支援情況連接使用。
+
+Bybit 新用戶註冊：
+
+**Bybit 邀請碼：BYOFFICIAL**
+
+**官方連結：**
+
+https://partner.bybit.com/b/BYOFFICIAL
+
+### Bitget Wallet
+Bitget Wallet 是多鏈 Web3 Wallet，支援 DeFi、DApp、跨鏈及鏈上資產管理。
+
+對於同時使用 Bitget 交易平台與 Web3 應用的使用者，可以使用 Bitget Wallet 管理鏈上資產。
+
+Bitget 新用戶註冊：
+
+**Bitget 邀請碼：BGOfficial**
+
+**官方連結：**
+
+https://partner.bitget.com/bg/BGOfficial
+
+## 🔗 如何連接 Wallet 到 Nado？
+
+操作前先確認官方網址：
+
+**app.nado.xyz**
+
+不要從陌生私訊、非官方網站或不明廣告進入。
+
+**連接流程：**
+
+1. 開啟 Nado 官方網站。
+2. 點擊右上角 Connect Wallet。
+3. 選擇 Wallet。
+4. 確認錢包地址。
+5. 在 Wallet 內確認連接請求。
+6. 返回 Nado 查看連接狀態。
+
+完成連接後，右上角通常會顯示目前錢包地址。
+
+## ✍️ Nado Wallet Signature 簽名安全嗎？
+
+第一次連接 Nado 時，可能會看到 Signature 請求。
+
+一般登入簽名主要用途是：
+
+- 確認錢包所有權。
+- 建立登入驗證。
+- 連接 Web3 帳戶。
+
+正常登入簽名通常：
+
+- 不會轉移資產。
+- 不會要求輸入助記詞。
+- 通常不需要支付 Gas。
+
+但是，任何要求以下資訊的網站都應立即停止操作：
+
+- Seed Phrase 助記詞
+- Private Key 私鑰
+- Google 驗證碼
+- 完整錢包備份文件
+
+## 🔄 Nado 如何切換 Wallet 或帳戶？
+
+如果同一台裝置有多個錢包，可以按照以下方式切換：
+
+1. 退出目前 Nado 連接狀態。
+2. 打開 Wallet 擴充功能或 App。
+3. 切換至另一個錢包帳戶。
+4. 返回 Nado。
+5. 重新點擊 Connect Wallet。
+6. 確認新的地址。
+
+不同錢包地址通常代表不同 Web3 身份。
+
+例如：
+
+- Wallet A：主要交易帳戶
+- Wallet B：測試新協議帳戶
+- Wallet C：長期資產管理帳戶
+
+不要隨意將大量資產集中在經常連接未知 DApp 的熱錢包中。
+
+## 💰 連接 Wallet 後如何充值 Nado？
+
+Nado 充值流程：
+
+**Portfolio → Deposit → Select Asset → Select Network → Copy Address**
+
+充值前確認：
+
+- 資產種類
+- 來源網路
+- 充值地址
+- Gas 費用
+- 最低充值要求
+
+常見資產包括：
+
+- USDT0
+- USDC
+- USDT
+- ETH
+
+第一次充值建議：
+
+- 先小額測試。
+- 確認成功到帳。
+- 再轉入主要資金。
+
+## ⚠️ Nado 使用 Wallet 常見錯誤
+
+### 1. 進入仿冒網站
+只使用官方網址：
+
+**app.nado.xyz**
+
+### 2. 簽署惡意授權
+不要在陌生網站確認 Token Approval 或無法理解的交易請求。
+
+### 3. 沒有準備 Gas
+Ink 網路操作可能需要 ETH 支付 Gas。
+
+### 4. 把交易所帳戶當成 Wallet
+Binance、OKX、Bybit、Bitget 交易帳戶與 Web3 Wallet 是不同系統。
+
+### 5. 分享助記詞
+任何平台客服都不需要你的助記詞。
+
+## ❓ 2026年8月 Nado Wallet FAQ
+
+**Nado 支援哪些錢包？**
+常見支援方式包括 MetaMask、Rabby Wallet、WalletConnect 以及其他相容 Web3 Wallet。
+
+**Nado 可以使用 Binance Wallet 嗎？**
+Binance Web3 Wallet 可以用於管理鏈上資產。是否能直接連接特定 Web3 應用，需要以 Nado 連接頁面支援列表為準。
+
+**Nado 需要下載 App 嗎？**
+Nado 主要透過 Web 端搭配 Web3 Wallet 使用，不一定需要傳統交易所 App。
+
+**Nado 連接 Wallet 需要 Gas 嗎？**
+單純連接與登入簽名通常不需要 Gas，但鏈上交易、授權、充值與提領可能需要。
+
+**Nado 邀請碼是多少？**
+Nado 邀請碼：
+
+**qp0fptC**
+
+**如何開始使用 Nado？**
+流程：
+
+使用邀請連結 → 連接 Wallet → 綁定 qp0fptC → 充值資產 → 開始交易
+
+## 🚀 開始使用 Nado 與 Web3 Wallet
+
+**Nado 邀請碼：**
+
+qp0fptC
+
+**官方註冊連結：**
+
+https://app.nado.xyz/?referralCode=qp0fptC
+
+如果已經使用 Binance、OKX、Bybit 或 Bitget 生態，也可以搭配對應 Web3 Wallet 管理鏈上資產，再依照 Nado 支援的資產與網路要求進行連接與充值。
+
+實際支援錢包、網路、交易功能、邀請回饋與產品資格，可能隨 Nado 官方規則更新。操作前應以 Nado 連接頁面與帳戶內顯示為準。
+
+⚠️ Web3 Wallet、鏈上交易、跨鏈操作及永續合約均存在資產損失風險。本文僅整理 Nado 錢包連接、簽名與帳戶切換流程，不構成任何投資建議。
